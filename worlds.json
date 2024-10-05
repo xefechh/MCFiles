@@ -1,0 +1,11 @@
+{
+  "worlds": [
+    {
+      "name": "New World",
+      "source": "C:\\Users\\pgaab\\AppData\\Roaming\\.minecraft\\saves\\New World",
+      "destination": "C:\\Users\\pgaab\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\New World",
+      "lastChanged": "2024-10-05T00:26:43",
+      "backup": false
+    }
+  ]
+}

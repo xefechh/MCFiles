@@ -1,0 +1,16 @@
+{
+  "clientToken": "8a8f81b2-e4a2-4f3a-b37d-5e092f356ca8",
+  "accounts": {
+    "87188f75654e4eae9b157af9b957ab04": {
+      "username": "rlbaee",
+      "userID": "rlbaee",
+      "displayName": "rlbaee",
+      "uuid": "87188f75654e4eae9b157af9b957ab04",
+      "type": "free",
+      "skinType": "tlauncher",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "87188f75654e4eae9b157af9b957ab04",
+  "freeAccountUUID": "87188f75654e4eae9b157af9b957ab04"
+}
