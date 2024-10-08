@@ -1,16 +1,27 @@
 {
   "clientToken": "8a8f81b2-e4a2-4f3a-b37d-5e092f356ca8",
   "accounts": {
-    "87188f75654e4eae9b157af9b957ab04": {
+    "333a6bfc834b11efa6fa9c6b00470e68": {
       "username": "rlbaee",
       "userID": "rlbaee",
       "displayName": "rlbaee",
-      "uuid": "87188f75654e4eae9b157af9b957ab04",
-      "type": "free",
+      "accessToken": "5b470882-309a-4080-bafb-ecd1d4d1691d",
+      "uuid": "333a6bfc-834b-11ef-a6fa-9c6b00470e68",
+      "type": "tlauncher",
       "skinType": "tlauncher",
-      "premiumAccount": false
+      "premiumAccount": false,
+      "profiles": [
+        {
+          "id": "333a6bfc-834b-11ef-a6fa-9c6b00470e68",
+          "name": "rlbaee"
+        }
+      ],
+      "selectedProfile": {
+        "id": "333a6bfc-834b-11ef-a6fa-9c6b00470e68",
+        "name": "rlbaee"
+      }
     }
   },
-  "selectedAccountUUID": "87188f75654e4eae9b157af9b957ab04",
+  "selectedAccountUUID": "333a6bfc834b11efa6fa9c6b00470e68",
   "freeAccountUUID": "87188f75654e4eae9b157af9b957ab04"
 }
