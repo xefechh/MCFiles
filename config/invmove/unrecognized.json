@@ -46,7 +46,9 @@
     "snownee.jade.gui.HomeConfigScreen": true,
     "snownee.jade.gui.WailaConfigScreen": true,
     "betteradvancements.common.gui.BetterAdvancementsScreen": true,
-    "xaero.common.gui.GuiWaypointSettings": true
+    "xaero.common.gui.GuiWaypointSettings": true,
+    "xaero.common.gui.GuiMinimapMiscSettings": true,
+    "net.minecraft.class_410": true
   },
   "hideBackground": {
     "mezz.jei.gui.recipes.RecipesGui": true
